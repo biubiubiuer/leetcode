@@ -1,0 +1,231 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "leetcode",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "143::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-143-Debug-f3e2fd063e55ab022643.json",
+					"name" : "143",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4503::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4503-Debug-1a43ac53156260524f34.json",
+					"name" : "4503",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4504::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4504-Debug-607a2aa060ec6d00d7f9.json",
+					"name" : "4504",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4505::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4505-Debug-c69ccd48900398874568.json",
+					"name" : "4505",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "828::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-828-Debug-4d3606748caad7ec26df.json",
+					"name" : "828",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "828_acm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-828_acm-Debug-0f8e6c5f8b7a3c487a68.json",
+					"name" : "828_acm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aaa::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aaa-Debug-83ace611e7719866265a.json",
+					"name" : "aaa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dianxin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dianxin-Debug-68a85101fade910d9eb8.json",
+					"name" : "dianxin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kapai_game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kapai_game-Debug-92cdf7d80016ab9854b5.json",
+					"name" : "kapai_game",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leetcode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leetcode-Debug-4424dcae55e12137f12c.json",
+					"name" : "leetcode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "t219365::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-t219365-Debug-b246d46b0661c8d817fb.json",
+					"name" : "t219365",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "t226082::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-t226082-Debug-df102115c9d16273d4f2.json",
+					"name" : "t226082",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "t236282::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-t236282-Debug-72b089464e944a1696b8.json",
+					"name" : "t236282",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "t238894::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-t238894-Debug-89d293c1fa92e317a385.json",
+					"name" : "t238894",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "t258478::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-t258478-Debug-9ca14b707f61187d7209.json",
+					"name" : "t258478",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "t258480::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-t258480-Debug-4165c6a35a35424bc779.json",
+					"name" : "t258480",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "t258573::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-t258573-Debug-6726279b477542a92625.json",
+					"name" : "t258573",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-e0da8cc23a46bf1f0a07.json",
+					"name" : "test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuse-Debug-104dddb0ef32b36e3450.json",
+					"name" : "tuse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yichang_data::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yichang_data-Debug-4fb66e3519ecc3ea4810.json",
+					"name" : "yichang_data",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug",
+		"source" : "/Users/biubiubiuer/CLionProjects/leetcode"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

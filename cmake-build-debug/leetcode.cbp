@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="leetcode"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leetcode">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/leetcode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 leetcode"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leetcode/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/leetcode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 leetcode/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="828">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/828" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 828"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="828/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/828" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 828/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tuse">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/tuse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 tuse"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tuse/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/tuse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 tuse/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="828_acm">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/828_acm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 828_acm"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="828_acm/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/828_acm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 828_acm/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t238894">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t238894" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t238894"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t238894/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t238894" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t238894/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t226082">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t226082" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t226082"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t226082/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t226082" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t226082/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t236282">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t236282" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t236282"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t236282/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t236282" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t236282/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t219365">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t219365" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t219365"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t219365/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t219365" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t219365/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4503">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/4503" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 4503"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4503/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/4503" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 4503/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4504">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/4504" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 4504"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4504/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/4504" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 4504/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4505">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/4505" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 4505"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4505/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/4505" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 4505/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t258478">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t258478" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t258478"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t258478/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t258478" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t258478/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t258573">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t258573" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t258573"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t258573/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t258573" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t258573/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t258480">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t258480" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t258480"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t258480/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/t258480" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 t258480/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="143">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/143" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 143"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="143/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/143" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 143/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dianxin">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/dianxin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 dianxin"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dianxin/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/dianxin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 dianxin/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yichang_data">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/yichang_data" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 yichang_data"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yichang_data/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/yichang_data" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 yichang_data/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aaa">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/aaa" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 aaa"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aaa/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/aaa" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 aaa/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kapai_game">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/kapai_game" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 kapai_game"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kapai_game/fast">
+				<Option output="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/kapai_game" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/aarch64-apple-darwin21"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.3.0_2/bin/../lib/gcc/11/gcc/aarch64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 kapai_game/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/biubiubiuer/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/acwing/Trie/143.cpp">
+			<Option target="143"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/acwing/zhousai/4503.cpp">
+			<Option target="4503"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/acwing/zhousai/4504.cpp">
+			<Option target="4504"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/acwing/zhousai/4505.cpp">
+			<Option target="4505"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/interview/aaa.cpp">
+			<Option target="aaa"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/interview/dianxin.cpp">
+			<Option target="dianxin"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/interview/kapai_game.cpp">
+			<Option target="kapai_game"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/interview/test.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/interview/tuse.cpp">
+			<Option target="tuse"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/interview/yichang_data.cpp">
+			<Option target="yichang_data"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/leetcode/828.cpp">
+			<Option target="828"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/leetcode/828_acm.cpp">
+			<Option target="828_acm"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/luogu/t219365.cpp">
+			<Option target="t219365"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/luogu/t226082.cpp">
+			<Option target="t226082"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/luogu/t236282.cpp">
+			<Option target="t236282"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/luogu/t238894.cpp">
+			<Option target="t238894"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/luogu/t258478.cpp">
+			<Option target="t258478"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/luogu/t258480.cpp">
+			<Option target="t258480"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/luogu/t258573.cpp">
+			<Option target="t258573"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/main.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/Users/biubiubiuer/CLionProjects/leetcode/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
